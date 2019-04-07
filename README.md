@@ -10,6 +10,10 @@
 ## 使用方式
 
 ```text
+npm install
+or
+yarn
+
 npm run build
 or
 yarn build
